@@ -19,7 +19,7 @@ def webhook():
     print(req)
     action = req.get('queryResult').get('action')
     print(action)
-    return "webhook : "+action+" - "[M X(
+    return "webhook : "+action
 
 if __name__ == "__main__":
     PORT=5000
