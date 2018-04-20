@@ -1,0 +1,7 @@
+PolitiqueAssurance;IdPerson;Date debut;Date fin;Type;Immat;Ville;No;Rue;Couverture
+1234567;1;01/01/2001;01/01/2010;Auto;AA-001-AA;;;;vol, accident
+1234568;2;02/01/2001;02/01/2010;Immobilier;;LR;1;empty;vol, incendie
+1234569;1;03/01/2001;03/01/2010;Auto;1234DC33;;;;vol, accident, bris de glace, incendie,
+1234570;4;04/01/2001;04/01/2010;Immobilier;;Niort;2;empty;vol, incendie, inondation, tempete
+1234571;5;05/01/2001;05/01/2010;Auto;ZZ-999-ZZ;;;;vol, accident, bris de glace, incendie,
+1234572;3;06/01/2001;06/01/2010;Immobilier;;LR;3;empty;vol, incendie, inondation, tempete
